@@ -14,4 +14,6 @@
 //= require jquery_ujs
 //= require bootstrap
 //= require_tree ../../../vendor/assets/javascripts/.
+//= require underscore
+//= require gmaps/google
 //= require_tree .
