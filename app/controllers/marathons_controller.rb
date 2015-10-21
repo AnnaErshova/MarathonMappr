@@ -9,14 +9,9 @@ class MarathonsController < ApplicationController
     @marathons = @q.result(distinct: true)
     # @q.build_condition if @q.conditions.empty?
     # @q.build_sort if @q.sorts.empty?
-    # @marathons = Marathon.all
     @hash = Gmaps4rails.build_markers(@marathons) do |marathon, marker|
       marker.lat marathon.latitude
       marker.lng marathon.longitude
-    end
-    respond_to do |format|
-      format.html # index.html.erb
-      format.json { render json: @marathons }
     end
   end
 
