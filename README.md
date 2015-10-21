@@ -2,6 +2,8 @@
 
 ## Description
 
+https://marathonmappr.herokuapp.com/
+
 A simple app that allows to search for and map for road races (5k all the way to an ultra) outside of the U.S.
 
 ## Screenshots
@@ -33,7 +35,7 @@ actually are implementing. No pie-in-the-sky-never-gonna-happen stuff.
 
 ## Author
 
-Link to your blog, twitter, etc!
+annaershova.github.io
 
 ## License
 
