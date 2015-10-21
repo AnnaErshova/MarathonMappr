@@ -20,8 +20,10 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # use ransack to allow advanced filtering
+# https://github.com/activerecord-hackery/ransack/wiki/Basic-Searching
 gem 'ransack', github: 'activerecord-hackery/ransack'
 
+# use letters for ransack to work correctly
 gem 'letters'
 
 gem 'gmaps4rails'

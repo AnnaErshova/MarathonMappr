@@ -2,21 +2,42 @@
 
 <h1>Race List:</h1>
 
+
+
 <!-- scripts for google maps -->
 <script src="//maps.google.com/maps/api/js?v=3.13&amp;sensor=false&amp;libraries=geometry" type="text/javascript">
 </script>
 <script src='//google-maps-utility-library-v3.googlecode.com/svn/tags/markerclustererplus/2.0.14/src/markerclusterer_packed.js' type='text/javascript'>
 </script>
 
+<!-- gmaps rendering -->
+<div style='width: 800px;'>
+    <div id="map" style='width: 800px; height: 400px;'>
+    </div>
+</div>
+
+<!-- code from http://apneadiving.github.io/ -->
+<script type"text/javascript">
+    handler = Gmaps.build('Google');
+    handler.buildMap({ provider: {}, internal: {id: 'map'}}, function(){
+      markers = handler.addMarkers(<%=raw @hash.to_json %>);
+    handler.bounds.extendWith(markers);
+    handler.fitMapToBounds();
+    });
+</script>
+
+
 <%= search_form_for @q do |f| %>
   <fieldset>
     <legend>Marathon</legend>
-    <!-- <ul> -->
-      <!-- <li> -->
+    <ul>
+        <!-- checks if race name matches a query -->
         <%= f.label :name_cont %>
         <%= f.text_field :name_cont%>
-      <!-- </li> -->
-    <!-- </ul> -->
+        <!-- checks if location matches a query -->
+        <%= f.label :city_and_or_country_cont %>
+        <%= f.text_field :city_or_country_cont %>
+    </ul>
   </fieldset>
 
   <%= f.submit %>
@@ -27,17 +48,11 @@
   <thead>
     <h3>Use Column Headers to Filter Race Results:</h3>
     <tr>
-      <th><%= sort_link(@q, :name, "Name") %></th>
-      <th><%= sort_link(@q, :city, "City") %></th>
-      <th><%= sort_link(@q, :country, "Country") %></th>
-      <th>Date description</th>
-      <th><%= sort_link(@q, :month, "Month") %></th>
-      <th><%= sort_link(@q, :year, "Year") %></th>
-      <th><%= sort_link(@q, :day, "Day") %></th>
-      <th><%= sort_link(@q, :kind, "Kind") %></th>
-      <th>Latitude</th>
-      <th>Longitude</th>
-      <th><%= sort_link(@q, :event_date, "Event Day") %></th>
+      <th><%= sort_link(@q, :event_date, "Date", default_order: :asc) %></th>
+      <th><%= sort_link(@q, :name, [:name, 'event_date_asc'],'Name') %></th>
+      <th><%= sort_link(@q, :city, [:city, 'event_date_asc'], 'City') %></th>
+      <th><%= sort_link(@q, :country, [:country, 'event_date_asc'], 'Country') %></th>
+      <th>Type</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -45,17 +60,12 @@
   <tbody>
     <% @marathons.each do |marathon| %>
       <tr>
+        <td><%= marathon.event_date %></td>
         <td><%= marathon.name %></td>
         <td><%= marathon.city %></td>
         <td><%= marathon.country %></td>
-        <td><%= marathon.date_description %></td>
-        <td><%= marathon.month %></td>
-        <td><%= marathon.year %></td>
-        <td><%= marathon.day %></td>
         <td><%= marathon.kind %></td>
-        <td><%= marathon.latitude %></td>
-        <td><%= marathon.longitude %></td>
-        <td><%= marathon.event_date %></td>
+
         <td><%= link_to 'Show', marathon %></td>
         <td><%= link_to 'Edit', edit_marathon_path(marathon) %></td>
         <td><%= link_to 'Destroy', marathon, method: :delete, data: { confirm: 'Are you sure?' } %></td>
@@ -68,33 +78,5 @@
 
 <%= link_to 'New Marathon', new_marathon_path %>
 
-<!-- gmaps rendering -->
-<div style='width: 800px;'>
-    <div id="map" style='width: 800px; height: 400px;'>
-    </div>
-</div>
-
-<!-- code from http://apneadiving.github.io/ -->
-
- <script type"text/javascript">
-    handler = Gmaps.build('Google');
-    handler.buildMap({ provider: {}, internal: {id: 'map'}}, function(){
-      markers = handler.addMarkers(<%=raw @hash.to_json %>);
-      // markers = handler.addMarkers([
-      //   {
-      //     "lat": 0,
-      //     "lng": 0,
-      //     "picture": {
-      //       "url": "https://addons.cdn.mozilla.net/img/uploads/addon_icons/13/13028-64.png",
-      //       "width":  36,
-      //       "height": 36
-      //     },
-      //     "infowindow": "hello!"
-      //   }
-      // ]);
-    handler.bounds.extendWith(markers);
-    handler.fitMapToBounds();
-    });
-  </script>
 
 
