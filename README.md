@@ -2,7 +2,7 @@
 
 ## Description
 
-Add a short description of your app.
+A simple app that allows to search for and map for road races (5k all the way to an ultra) outside of the U.S.
 
 ## Screenshots
 

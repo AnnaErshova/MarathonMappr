@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  
+  root 'marathons#index'
+
   resources :marathons
 
   devise_for :users
