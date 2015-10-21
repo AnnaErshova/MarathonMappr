@@ -6,6 +6,12 @@ https://marathonmappr.herokuapp.com/
 
 A simple app that allows to search for and map for road races (5k all the way to an ultra) outside of the U.S.
 
+User can:
+
+* Search races by name or location (city/country)
+* Search races by date ranges
+* Sort races by name, city, country, type, of date, ascending or descending
+
 ## Screenshots
 
 Add some spiffy screenshots of your app here.

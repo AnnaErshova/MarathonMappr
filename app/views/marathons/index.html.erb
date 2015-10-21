@@ -2,8 +2,6 @@
 
 <h1>Race List:</h1>
 
-
-
 <!-- scripts for google maps -->
 <script src="//maps.google.com/maps/api/js?v=3.13&amp;sensor=false&amp;libraries=geometry" type="text/javascript">
 </script>
@@ -27,21 +25,16 @@
 </script>
 
 
-<%= search_form_for @q do |f| %>
-  <fieldset>
-    <legend>Marathon</legend>
-    <ul>
-        <!-- checks if race name matches a query -->
-        <%= f.label :name_cont %>
-        <%= f.text_field :name_cont%>
-        <!-- checks if location matches a query -->
-        <%= f.label :city_and_or_country_cont %>
-        <%= f.text_field :city_or_country_cont %>
-    </ul>
-  </fieldset>
-
-  <%= f.submit %>
-<% end %>
+<!-- <% content_for :q do %> -->
+  <div class="large-8 small-9 columns">
+  <%= search_form_for @q do |f| %>
+    <%= f.text_field :name_cont, class: "radius-left expand", placeholder: "Race name" %>
+  </div>
+    <div class="large-4 small-3 columns">
+      <%= f.submit "Search", class: "radius-right button" %>
+    </div>
+  <% end %>
+<!-- <% end %> -->
 
 
 <table>
@@ -66,9 +59,9 @@
         <td><%= marathon.country %></td>
         <td><%= marathon.kind %></td>
 
-        <td><%= link_to 'Show', marathon %></td>
+<!--         <td><%= link_to 'Show', marathon %></td>
         <td><%= link_to 'Edit', edit_marathon_path(marathon) %></td>
-        <td><%= link_to 'Destroy', marathon, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= link_to 'Destroy', marathon, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
       </tr>
     <% end %>
   </tbody>
