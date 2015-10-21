@@ -1,0 +1,398 @@
+month,year,day,date_description,name,city,country,kind,latitude,longitude,event_date
+10,2015,3,October 2015,Tartu City Marathon,Tartu,Estonia,M/H/R,58.377625,26.729006
+10,2015,3,October 2015,Legends Marathon,East London,South Africa,U/H,-33.029158,27.854586
+10,2015,4,October 2015,1/2 Maraton Scotiabank,Santiago,Peru,H,-14.176111,-75.716796
+10,2015,4,October 2015,Lloyds Bank Cardiff Half Marathon,Cardiff,Wales,H,51.481581,-3.179089
+10,2015,4,October 2015,Belfius Brussels Marathon & Half Marathon,Brussels,Belgium,M/H,50.850339,4.351710
+10,2015,4,October 2015,RAHAL 10k International Marrakech,Marrakech,Morocco,R,31.629472,-7.981084
+10,2015,4,October 2015,Bournemouth Marathon Festival,Bournemouth,England,M/H/R,50.719164,-1.880768
+10,2015,4,October 2015,RheinEnergieMarathon Cologne,Cologne,Germany,M/H,50.937531,6.960278
+10,2015,4,October 2015,Kosice Peace Marathon,Kosice,Slovakia,M,48.721005,21.257799
+10,2015,4,October 2015,Portland Marathon,Portland OR,USA,M,45.523062,-122.676481
+10,2015,4,October 2015,Bila Tserkva Marathon,Bila Tserkva,Ukraine,M/R,49.796797,30.131085
+10,2015,4,October 2015,Colombo Marathon,Colombo,Sri Lanka,M/H,6.927078,79.861243
+10,2015,4,October 2015,Hans Christian Andersen Marathon,Odense,Denmark,M,55.403755,10.402370
+10,2015,4,October 2015,Gatorade Caracas Rock 10K,Caracas,Venezuela,R,10.480593,-66.903606
+10,2015,4,October 2015,Queretaro Maraton,Queretaro,Mexico,M/H/R,20.588793,-100.389888
+10,2015,4,October 2015,3 Country Sparkasse Marathon,Lake Constance,Austria,M/H,47.636337,9.389244
+10,2015,4,October 2015,Silesia Marathon,Silesia,Poland,M/H/R,50.571659,19.321976
+10,2015,4,October 2015,Turin Marathon,Turin,Italy,M,45.070312,7.686856
+10,2015,4,October 2015,Bucharest Marathon,Bucharest,Romania,M/H,44.426767,26.102538
+10,2015,4,October 2015,Guayaquil Marathon,Guayaquil,Ecuador,M,-2.170997,-79.922359
+10,2015,4,October 2015,A de Maraton Ciudad de Bucaramanga a Fundacion Cardiovascular de Colombia,Bucaramanga,Colombia,R,7.119349,-73.122741
+10,2015,4,October 2015,Standard Chartered KL Marathon,Kuala Lumpur,Malaysia,M/H/R,3.139003,101.686854
+10,2015,5,October 2015,Incheon Songdo International Half Marathon,Incheon,South Korea,H/R,37.456255,126.705206
+10,2015,9,October 2015,Samsung Amman International Marathon,Amman,Jordan,M/R,31.956578,35.945695
+10,2015,9,October 2015,Lake Tahoe Triple Marathons & Triple Half Marathons,Lake Tahoe,USA,M/H,39.096849,-120.032350
+10,2015,10,October 2015,International Thessaloniki Night Half Marathon & 5km,Thessaloniki,Greece,H/R,40.640062,22.944419
+10,2015,10,October 2015,BMO Okanagan Marathon,Okanagan,Canada,M,49.83385,-119.523609
+10,2015,11,October 2015,Novi Sad Marathon,Novi Sad,Serbia,M,45.267135,19.833549
+10,2015,11,October 2015,Zagreb Marathon & Half Marathon,Zagreb,Croatia,M/H,45.815010,15.981919
+10,2015,11,October 2015,Buenos Aires International Marathon,Buenos Aires,Argentina,M,-34.603684,-58.381559
+10,2015,11,October 2015,Munich Marathon,Munich,Germany,M/H/R,48.135125,11.581980
+10,2015,11,October 2015,Bank of America Chicago Marathon,Chicago,USA,M,41.878113,-87.629798
+10,2015,11,October 2015,De Lage Landen Marathon Eindhoven,Eindhoven,Netherlands,M,51.441641,5.469722
+10,2015,11,October 2015,Goodlife Fitness Victoria Marathon,Victoria BC,Canada,M,48.428420,-123.365644
+10,2015,11,October 2015,Poznan Marathon,Poznan,Poland,M,52.406374,16.925168
+10,2015,11,October 2015,30th Spar Budapest Marathon,Budapest,Hungary,M,47.497912,19.040234
+10,2015,11,October 2015,Dong-A Ilbo Gyeongju International Marathon,Gyeongju,South Korea,M,35.856171,129.224747
+10,2015,11,October 2015,1/2 Maratona Del Concilio Cittaa Di Trento,Trento,Italy,H,46.074779,11.121748
+10,2015,11,October 2015,Meia-Maratona Ribeirinha,Moita,Portugal,H,38.652732,-8.990204
+10,2015,18,October 2015,Medio Maraton Valencia Trinidad Alfonso,Valencia,Spain,M,39.469907,-0.376288
+10,2015,18,October 2015,TCS Amsterdam Marathon,Amsterdam,Netherlands,M,52.370215,4.895167
+10,2015,18,October 2015,Linker Oevert 1/2 Marathon,Antwerpen,Belgium,H,51.219447,4.402464
+10,2015,18,October 2015,Scotiabank Toronto Waterfront Marathon & Half Marathon,Toronto,Canada,M/H,43.653226,-79.383184
+10,2015,18,October 2015,Vodafone Rock'n'Roll Lisbon Marathon & Half Marathon,Lisbon,Portugal,H/M,38.722252,-9.139336
+10,2015,18,October 2015,Medibank Melbourne Marathon Festival,Melbourne,Australia,M,-37.814107,144.963279
+10,2015,18,October 2015,5th Lake Maggiore Marathon,Lake Maggiore,Italy,M/H/R,45.967621,8.653258
+10,2015,18,October 2015,Maraton Internacional de Guadalajara,Guadalajara,Mexico,M,20.659698,-103.349609
+10,2015,24,October 2015,Polar Circle Marathon,Kangerlussuaq,Greenland,M/H,67.009478,-50.721150
+10,2015,25,October 2015,Standard Chartered Nairobi Marathon,Nairobi,Kenya,M,-1.292065,36.821946
+10,2015,25,October 2015,Maraton Aguascalientes,Aguascalientes,Mexico,M/H/R,21.885256,-102.291567
+10,2015,25,October 2015,BMW Frankfurt Marathon,‎Frankfurt am Main,Germany,M,50.110922,8.682126
+10,2015,25,October 2015,SwissCityMarathon a Lucerne,Lucerne,Switzerland,M,47.050168,8.309307
+10,2015,25,October 2015,Marine Corps Marathon,Arlington VA,USA,M,38.879969,-77.106769
+10,2015,25,October 2015,Lausanne Marathon,Lausanne,Switzerland,M,46.519653,6.632273
+10,2015,25,October 2015,Osaka Marathon,Osaka,Japan,M,34.693737,135.502165
+10,2015,25,October 2015,Ljubljanski Marathon,Ljubljana,Slovenia,M/H/R,46.056946,14.505751
+10,2015,25,October 2015,Podgorica Marathon,Podgorica,Montenegro,M,42.430419,19.259364
+10,2015,25,October 2015,Venice Marathon,Venice,Italy,M,45.440847,12.315515
+10,2015,25,October 2015,St Denis Half Marathon - La Voie Royale,St Denis,France,H,48.936181,2.357442
+10,2015,25,October 2015,Heidelberg Cement Tbilisi Halfmarathon,Tbilisi,Georgia,H/R,41.715137,44.827095
+10,2015,25,October 2015,Grand Marathon International De Casablanca,Casablanca,Morocco,M/H/R,33.573110,-7.589843
+10,2015,25,October 2015,Jakarta Marathon,Jakarta,Indonesia,M/H/R,-6.208763,106.845598
+10,2015,25,October 2015,UWI-SPEC Half Marathon,St Augustine,Trinidad and Tobago,H,10.647341,-61.399777
+10,2015,26,October 2015,SSE Airtricity Dublin Marathon,Dublin,Ireland,M,53.349805,-6.260309
+10,2015,30,October 2015,Erbil Marathon,Erbil,Iraq,M/H/R,36.206293,44.008869
+10,2015,30,October 2015,Niagara Falls International Marathon,Niagara Falls,Canada,M,43.089557,-79.084943
+11,2015,29,November 2015,Quito21k Mitad del Mundo,Quito,Ecuador,H/R,-0.180653,-78.467838
+11,2015,1,November 2015,ASB Auckland Marathon,Auckland,New Zealand,M/H/R,-36.848459,174.763331
+11,2015,1,November 2015,Hangzhou International Marathon,Hangzhou,China,M,30.274085,120.155070
+11,2015,1,November 2015,TCS New York City Marathon,New York,USA,M,40.712783,-74.005941
+11,2015,7,November 2015,Yi Lan Chiang Wei Shui Memorial Freeway Marathon,Taipei,Taiwan,M/H,25.032969,121.565417
+11,2015,7,November 2015,3-Sjoerslopet,Stavanger,Norway,H,58.969975,5.733107
+11,2015,8,November 2015,Athens Marathon The Authentic,Athens,Greece,M,37.983917,23.729359
+11,2015,8,November 2015,Porto Marathon EDP,Porto,Portugal,M,41.157943,-8.629105
+11,2015,8,November 2015,BDL Beirut Marathon,Beirut,Lebanon,M,33.888628,35.495479
+11,2015,8,November 2015,Ravenna City of Art International Marathon,Ravenna,Italy,M/H,44.418359,12.203529
+11,2015,8,November 2015,Garda Trentino Half Marathon,Garda Trentino,Italy,H,45.604938,10.635141
+11,2015,8,November 2015,French Riviera Marathon Nice-Cannes,Nice,France,M,43.710172,7.261953
+11,2015,8,November 2015,Big Sur Half Marathon on Monterey Bay,Monterey Bay,USA,H,36.800741,-121.947311
+11,2015,8,November 2015,Shanghai International Marathon,Shanghai,China,M,31.230416,121.473701
+11,2015,11,November 2015,Volcano Marathon,San Pedro de Atacama,Chile,M/H,-22.908707,-68.199715
+11,2015,15,November 2015,Standard Chartered Bangkok Marathon,Bangkok,Thailand,M,13.756330,100.501765
+11,2015,15,November 2015,Havana Marabana Marathon & Half,Havana,Cuba,M/H,23.054069,-82.345189
+11,2015,15,November 2015,Maraton Valencia Trinidad Alfonso,Valencia,Spain,M,39.469907,-0.376288
+11,2015,15,November 2015,Rock'n'Roll Las Vegas Marathon & Half,Las Vegas,USA,M/H,36.169941,-115.139829
+11,2015,15,November 2015,Vodafone 37th Istanbul Marathon,Istanbul,Turkey,M/H/R,41.008237,28.978358
+11,2015,15,November 2015,Kanazawa Marathon,Kanazawa,Japan,M,36.561325,136.656205
+11,2015,15,November 2015,Kobe Marathon,Kobe,Japan,M,34.690083,135.195511
+11,2015,15,November 2015,Verona Marathon,Verona,Italy,M/H,45.438384,10.991621
+11,2015,15,November 2015,Saitama International Marathon,Saitama,Japan,M,35.861729,139.645482
+11,2015,19,November 2015,Antarctic Ice Marathon & 100k,Union Glacier Camp,Antarctica,M/U,-78.525483, -85.617147
+11,2015,20,November 2015,15th Pharaonic 100km,Faiyum,Egypt,U,29.308402,30.842849
+11,2015,21,November 2015,Medio Maraton Turistico Riviera Nayarit,Riviera Nayarit,Mexico,H/R,20.752178,-105.327277
+11,2015,22,November 2015,Penang Bridge International Marathon,Perai,Malaysia,M,5.377294,100.400145
+11,2015,22,November 2015,Great Ethiopian Run 10km,Addis Ababa,Ethiopia,R,8.980603,38.757760
+11,2015,22,November 2015,21k Nuevo Leon,Nuevo Leon,Mexico,H,25.592172,-99.996194
+11,2015,22,November 2015,Gore-Tex Philadelphia Marathon,Philadelphia,USA,M/H,39.952583,-75.165221
+11,2015,25,November 2015,Chosunilbo Chuncheon Marathon,Chuncheon,South Korea,M,37.881315,127.729970
+11,2015,27,November 2015,Eilat Full Desert Marathon,Eilat,Israel,H/R,29.557669,34.951925
+11,2015,28,November 2015,Bagan Temple Marathon,Bagan,Myanmar,M/H/R,21.171727,94.858545
+11,2015,28,November 2015,100km of the Namib Desert,Windhoek,Namibia,U,-22.560880,17.065754
+11,2015,29,November 2015,Mount Fuji Marathon,Honshu Island,Japan,M,35.360555,138.727777
+11,2015,29,November 2015,Maraton Donostia â San Sebastian,San Sebastian,Spain,M,43.318334,-1.981231
+11,2015,29,November 2015,Airtel Delhi Half Marathon,Delhi,India,H,28.613939,77.209021
+11,2015,29,November 2015,Serge Vigot La Rochelle International Marathon,La Rochelle,France,M,46.160329,-1.151139
+11,2015,29,November 2015,Firenze Marathon,Florence,Italy,M,43.769560,11.255813
+11,2015,29,November 2015,Gran Maraton Pacifico,Mazatlan,Mexico,M/H,23.249414,-106.411142
+11,2015,29,November 2015,KLM Curacao Marathon,Willemstad,Curacao,M/H/R,12.122422,-68.882423
+11,2015,29,November 2015,Marathon du Gabon,Libreville,Gabon,M,0.416197,9.467267
+11,2015,29,November 2015,XXXIX Panama International Marathon 2015,Panama City,Panama,M,9.101178,-79.402863
+11,2015,29,November 2015,UNICEF Charity Run Half Marathon,Hong Kong,Hong Kong,H/R,22.396428,114.109497
+11,2015,1,November 2015,JoongAng Seoul Marathon,Seoul,South Korea,M,37.566535,126.977969
+12,2015,4,December 2015,Ayla Red Sea Half Marathon,Aqbar,Jordan,M/H/R,32.940786,35.495515
+12,2015,5,December 2015,Reggae Marathon & Half Marathon & 10K,Negril,Jamaica,M/H/R,18.268305,-78.347242
+12,2015,5,December 2015,Bengaluru Midnight Marathon,Bangalore,India,M/H/R,12.971598,77.594562
+12,2015,6,December 2015,Intertrust Cayman Islands Marathon,Seven Mile Beach,Cayman Islands,M,19.333867,-81.381699
+12,2015,6,December 2015,Standard Chartered Marathon Singapore,Singapore,Singapore,M/H/R,1.280094,103.850949
+12,2015,6,December 2015,Angkor Wat Int'l Half Marathon,Siem Reap,Cambodia,H,13.367096,103.844813
+12,2015,6,December 2015,Maraton Cabberty Malaga,Malaga,Spain,M,36.721261,-4.421265
+12,2015,6,December 2015,Macao Galaxy Entertainment International Marathon,Macao,Macao,M/H,22.198745,113.543873
+12,2015,6,December 2015,San Jose Costa Rica International Marathon & Half,San Jose,Costa Rica,M,9.928069,-84.090724
+12,2015,6,December 2015,Discoveries Half Marathon,Lisbon,Portugal,M,38.722252,-9.139336
+12,2015,6,December 2015,Milo Marathon Manila Finals Race & 3k & 5k & 10k & 21k,Manila,Philippines,M/H/R,14.599512,120.984219
+12,2015,6,December 2015,68th Fukuoka International Open Marathon Championship,Fukuoka,Japan,M,33.590354,130.401715
+12,2015,6,December 2015,Run Barbados Marathon Weekend,St Lawrence Gap,Barbados,M/H/R,13.066043,-59.566029
+12,2015,6,December 2015,Pune International Marathon,Kolkata,India,M,22.572646,88.363894
+12,2015,13,December 2015,Sfax Marathon International Olive Trees,Sfax,Tunisia,M/H,34.747846,10.766163
+12,2015,13,December 2015,Nara Marathon,Nara,Japan,M/R,34.685086,135.805000
+12,2015,13,December 2015,Maraton Powerade Monterrey,Monterrey,Mexico,M,25.686614,-100.316112
+12,2015,13,December 2015,St. Croix International Marathon,St Croix,US Virgin Islands,M,17.728923,-64.750027
+12,2015,20,December 2015,Taipei Marathon,Taipei,Taiwai,M/H/R,25.032969,121.565417
+12,2015,20,December 2015,Tata Steel Kolkata 25km,Kalkuta,India,R,22.572646,88.363894
+12,2015,26,December 2015,El Corte Ingles Sao Silvestre de Lisboa,Lisbon,Portugal,R,38.722252,-9.139336
+12,2015,31,December 2015,Sao Silvestre de Luanda 10k,Luanda,Angola,R,-8.839987,13.289436
+11,2015,29,November 2015,100km of the Namib Desert,Windhoek,Namibia,U,-22.560880,17.065754
+1,2016,1,January 2016,Neujahrsmarathon Zurich,Zurich,Switzerland,M/H/R,47.376886,8.541694
+1,2016,7,January 2016,Siberian Ice Half Marathon,Omsk,Russia,H,54.988480,73.324236
+1,2016,8,January 2016,Tiberias Sea of Galilee Marathon,Sea of Galilee,Israel,M,32.824432,35.587997
+1,2016,11,January 2016,Cebu Marathon,Cebu,Philippines,M/H/R,10.315699,123.885436
+1,2016,15,January 2016,Egyptian Marathon,Cairo,Egypt,M,30.044419,31.235711
+1,2016,17,January 2016,Maui Ocean Front Marathon & Half,Maui,USA,M,20.798362,-156.331925
+1,2016,17,January 2016,Chevron Houston Marathon and Aramco Houston Half Marathon,Houston TX,USA,M/H,29.760426,-95.369802
+1,2016,17,January 2016,Standard Chartered Mumbai Marathon,Mumbai,India,M/H,19.075983,72.877655
+1,2016,17,January 2016,Marathon Bahamas & Half & Relay,Nassau,Bahamas,M/H/R,25.047983,-77.355413
+1,2016,17,January 2016,Gammon China Coast Marathon & Half,Hong Kong,Hong Kong,M/H,22.396428,114.109497
+1,2016,17,January 2016,Standard Chartered Hong Kong Marathon,Hong Kong,Hong Kong,M,-23.806346,-45.401653
+1,2016,20,January 2016,Corrida De Sao Sebastiao,Sao Sebastiao,Brazil,R,24.846496,-107.359751
+1,2016,24,January 2016,Maraton Internacional de Culiacan,Culiacan,Mexico,M,24.846496,-107.359751
+1,2016,24,January 2016,Khon Kaen International Marathon,Khon Kaen,Thailand,M/H/R,16.441935,102.835992
+1,2016,24,January 2016,Mitja Marato Internacional Vila De Santa Pola,Santa Pola,Spain,H,38.196561,-0.561243
+1,2016,24,January 2016,DISA Gran Canaria Maraton,Las Palmas de Gran Canaria,Canary Islands,M/H,28.123545,-15.436257
+1,2016,31,January 2016,Grande Premio Fim da Europa,Sintra,Portugal,R,38.802868,-9.381658
+1,2016,31,January 2016,Marathon & Semi-marathon International de Marrakech,Marrakech,Morocco,M/H,31.629472,-7.981084
+1,2016,31,January 2016,Osaka Women's Marathon,Osaka,Japan,M,34.693737,135.502165
+1,2016,**,January 2016,Xiamen International Marathon,Xiamen,China,M,24.479834,118.089425
+1,2016,**,January 2016,Tainan Ancient Capital Marathon,Tainan,Taiwan,M/H/R,22.999899,120.226875
+2,2016,7,February 2016,Beppu-Oita Mainichi Marathon,Beppu,Japan,M,33.28462,131.491213
+2,2016,7,February 2016,Mostra d'Oltremare Half Marathon,Naples,Italy,H,40.851774,14.268124
+2,2016,7,February 2016,Kagawa Marugame International Half Marathon,Marugame,Japan,M,Kyoto,Japan,34.289506,133.797705
+2,2016,7,February 2016,Mitja Marato Granollers,Granollers,Spain,H,41.606192,2.287088
+2,2016,12,February 2016,RAK Half Marathon,Ras Al Khaimah,UAE,H/R,25.800692,55.976199
+2,2016,13,February 2016,Al Amerat Challenge Race,Al Amerat,Oman,R,23.549873,58.273298
+2,2016,13,February 2016,Nelson Mandela 27km for Freedom Run,South Africa,Paarl,R,-33.734230,18.962109
+2,2016,14,February 2016,Giulietta & Romeo Half Marathon,Verona,Italy,H,45.438384,10.991621
+2,2016,14,February 2016,eDreams Mitja Marato de Barcelona,Barcelona,Spain,H,41.385063,2.173403
+2,2016,21,February 2016,Maratona di San Valentino,San Valentino,Italy,M/H,42.234976,13.987588
+2,2016,21,February 2016,Kyoto Marathon(planned),Kyoto,Japan,M/R,35.011636,135.768029
+2,2016,21,February 2016,Kitakyushu Marathon (Date to be confirmed),Kitakyushu,Japan,M,33.883409,130.875216
+2,2016,21,February 2016,Ohme-Hochi 30km Road Race (&10km),Ohme,Japan,R,35.488494,140.309826
+2,2016,**,February 2016,Kaohsiung International Marathon,Kaohsiung,Taiwan,M,22.627278,120.301435
+2,2016,22,February 2016,Sahara Marathon,Tindouf,Algeria,M/H,27.676101,-8.127652
+2,2016,26,February 2016,Tel Aviv Samsung Marathon,Tel Aviv,Israel,M/H/R,32.085299,34.781767
+2,2016,28,February 2016,Maritzburg City Marathon,Maritzburg,South Africa,M/H,-26.208744,28.061146
+2,2016,28,February 2016,Tokyo Marathon,Tokyo,Japan,M,35.709025,139.731992
+2,2016,28,February 2016,Kilimanjaro Marathon,Moshi,Tanzania,M,-3.343947,37.329286
+2,2016,28,February 2016,The Carthage Race International Marathon,Carthage,Tunisia,M/H/R,36.852919,10.321724
+2,2016,28,February 2016,Kinmen Marathon,Kinmen,Taiwan,M/H/R,24.445833,118.376111
+2,2016,**,February 2016,Taipei Standard Chartered Charity Marathon,Taipei,Taiwan,M/H/R,25.032969,121.565417
+2,2016,**,February 2016,Cape Peninsula Marathon,Cape Town,South Africa,M/H,-33.924868,18.424055
+2,2016,**,February 2016,Medio Maraton International Guadalajara,Guadalajara,Mexico,H,20.659698,-103.349609
+2,2016,28,February 2016,Seychelles Eco-Friendly Marathon,Victoria,Seychelles,M,-4.619143,55.451314
+2,2016,**,February 2016,Gyeonggi International Half Marathon,Gyeonggi,South Korea,H,37.413799,127.518299
+3,2016,6,March 2016,Treviso Marathon 1.3,Treviso,Italy,M,45.666889,12.243043
+3,2016,6,March 2016,Semi Marathon de Paris,Paris,France,H,48.856614,2.352221
+3,2016,6,March 2016,Sihanoukville International Half Marathon,Sihanoukville,Cambodia,H,10.625301,103.523396
+3,2016,6,March 2016,Nafplio Marathon,Nafplio,Greece,M/H,37.567317,22.801553
+3,2016,6,March 2016,Lake Biwa Mainichi Marathon,Otsu,Japan,M,35.017892,135.854607
+3,2016,6,March 2016,9th Lake Maggiore Half Marathon,Lake Maggiore,Italy,H,45.967621,8.653258
+3,2016,12,March 2016,Antarctica Marathon & Half,Antarctia,Antarctica,M/H,-61.988193,-58.019604
+3,2016,12,March 2016,Rock 'n' Roll DC Marathon & Half Marathon,Washington DC,USA,M/H,38.907192,-77.036870
+3,2016,13,March 2016,Nagoya Women's Marathon,Nagoya,Japan,M,35.181446,136.906397
+3,2016,13,March 2016,Gran Maraton Mexiquense,Metepec,Mexico,M,19.252886,-99.598550
+3,2016,13,March 2016,Zurich Marato De Barcelona,Barcelona,Spain,M,41.385063,2.173403
+3,2016,13,March 2016,Runatolia Marathon (Half +10km),Antalya,Turkey,M/H/R,36.896890,30.713323
+3,2016,13,March 2016,Zurich Marathon de Sevilla,Sevilla,Spain,M,37.389092,-5.984458
+3,2016,13,March 2016,ASTA 10km Internationale de Taroudant,Taroudant,Morocco,R,30.472712,-8.874876
+3,2016,17,March 2016,9th Lake Balaton Supermarathon,Siofok,Hungary,H,46.909060,18.074623
+3,2016,18,March 2016,Jerusalem Marathon & Half and 10k,Jerusalem,Israel,M/H/R,31.768319,35.213709
+3,2016,20,March 2016,ASICS Maraton de San Jose,San Jose,Costa Rica,M/H/R,9.928069,-84.090724
+3,2016,20,March 2016,EDP Lisbon Half Marathon,Lisbon,Portugal,H,38.722252,-9.139336
+3,2016,20,March 2016,Standard Chartered Stanley Marathon,Stanley,Falkland Islands,M,-51.697712,-57.851662
+3,2016,20,March 2016,Seoul International Marathon,Seoul,South Korea,M,37.566535,126.977969
+3,2016,25,March 2016,Old Mutual Two Oceans Marathon,Cape Town,South Africa,U,-33.924868,18.424055
+3,2016,6,March 2016,Maraton Internacional Lala,Torreon,Mexico,M,25.542844,-103.406786
+3,2016,**,March 2016,World's Best 10K Race,San Juan,Puerto Rico,R,18.466333,-66.105721
+3,2016,**,March 2016,New Taipei City Wan Jin Shi Marathon,Taipei,Taiwan,M/H/R,25.032969,121.565417
+3,2016,**,March 2016,IAAF World Cross-Country Championships Guiylan,Guiyuan,China,H,29.562698,106.547070
+3,2016,**,March 2016,Incheon International Half Marathon,Incheon,South Korea,H,37.456255,126.705206
+3,2016,3,March 2016,Vattenfall Berlin Half Marathon,Berlin,Germany,H,52.520006,13.404953
+3,2016,**,March 2016,Santiago Corre 10K,Santiago,Dominican Republic,R,19.479196,-70.693056
+4,2016,3,April 2016,International Marathon Alexander the Great,Thessaloniki,Greece,M/R,40.640062,22.944419
+4,2016,3,April 2016,Novi Sad Half Marathon,Novi Sad,Serbia,M,45.267135,19.833549
+4,2016,3,April 2016,Schneider Electric Paris Marathon,Paris,France,M,48.856614,2.352221
+4,2016,3,April 2016,ASICS Medio Maraton de Madrid,Madrid,Spain,H,40.416775,-3.703790
+4,2016,3,April 2016,Diacore Gaborone Marathon,Gaborone,Botswana,M/H/R,-24.628207,25.923147
+4,2016,3,April 2016,Maraton de Santiago,Santiago,Chile,M/H,-33.448889,-70.669265
+4,2016,3,April 2016,Milano Marathon,Milano,Italy,M,45.465421,9.185924
+4,2016,3,April 2016,CSOB Bratislava Marathon,Bratislava,Slovakia,M,48.145892,17.107137
+4,2016,9,April 2016,North Pole Marathon,North Pole,North Pole,M,90.0000,0.0000
+4,2016,9,April 2016,Kharkiv International Marathon,Kharkiv,Ukraine,M/H/R,49.9935,36.230383
+4,2016,10,April 2016,261 Women's Marathon,Palma de Mallorca,Spain,M/R,39.569600,2.650160
+4,2016,10,April 2016,Maraton de Montevideo,Montevideo,Uruguay,M/H,-34.901112,-56.164531
+4,2016,10,April 2016,Maratona di Roma,Rome,Italy,M,41.902783,12.496365
+4,2016,10,April 2016,Guam International Marathon,Tumon,Guam,M/H/R,13.512723,144.804817
+4,2016,10,April 2016,Australian Running Festival Vanberra Marathon,Canberra,Australia,M/H/U,-35.281999,149.128684
+4,2016,10,April 2016,HAJ Hannover Marathon,Hannover,Germany,M/R/U,52.375891,9.732010
+4,2016,10,April 2016,Limassol Marathon on GSO,Limassol,Cyprus,M/H/R,34.707130,33.022617
+4,2016,10,April 2016,Vienna City Marathon,Vienna,Austria,M/H/R,48.208174,16.373818
+4,2016,10,April 2016,NN Marathon Rotterdam,Rotterdam,Netherlands,M,51.924420,4.477732
+4,2016,16,April 2016,Pardubice Wine Half Marathon,Pardubice,Czech Republic,H,50.034309,15.781199
+4,2016,17,April 2016,Nagano Marathon,Nagano,Japan,M,36.648549,138.194243
+4,2016,17,April 2016,Enschede Marathon,Enschede,Netherlands,M/H,52.221537,6.893661
+4,2016,17,April 2016,31st Telekom Vivicitta Spring Half Marathon,Budapest,Hungary,H/R,47.497912,19.040234
+4,2016,17,April 2016,DVV Antwerp Marathon,Antwerp,Belgium,M,51.219447,4.402464
+4,2016,17,April 2016,Roads to Rhodes Marathon,Rhodes,Greece,M/R,36.434963,28.217482
+4,2016,17,April 2016,DOZ Marathon Lodz with PZU,Lodz,Poland,M/R,51.759248,19.455983
+4,2016,17,April 2016,Maratona Sant Antonio,Sant Antonio,Italy,M,40.876615,15.181306
+4,2016,17,April 2016,Haspa Marathon Hamburg,Hamburg,Germany,M,53.551084,9.993681
+4,2016,17,April 2016,The Vancouver Sun Run 10km Presented By BlueShore Financial,Vancouver,Canada,R,49.282729,-123.120737
+4,2016,18,April 2016,BAA Boston Marathon,Boston,USA,M,42.360082,-71.058880
+4,2016,24,April 2016,Metro Group Marathon Duesseldorf,Duesseldorf,Germany,M,51.227741,6.773455
+4,2016,24,April 2016,Big Sur Int'l Marathon,Big Sur,USA,M/H,36.270421,-121.807976
+4,2016,24,April 2016,EDP Rock'n'Roll Madrid Maraton & 1/2,Madrid,Spain,M/H,40.416775,-3.703790
+4,2016,24,April 2016,Zurich Marathon,Zurich,Switzerland,M,47.376886,8.541694
+4,2016,24,April 2016,ORLEN Warsaw Marathon,Warsaw,Poland,M/R,52.229675,21.012228
+4,2016,24,April 2016,Chia Laguna Half Marathon,Chia Laguna,Italy,H/R,38.895074,8.870043
+4,2016,24,April 2016,Vodafone Istanbul Half Marathon,Istanbul,Turkey,H,41.008237,28.978358
+4,2016,24,April 2016,Almaty Marathon,Almaty,Kazakhstan,M/H/R,43.222014,76.851248
+4,2016,30,April 2016,Fjordkraft Bergen City Marathon,Bergen,Norway,M/H/R,60.391262,5.322054
+4,2016,8,April 2016,Dead Sea Ultramarathon,Amman,Jordan,M/R/U,31.956578,35.945695
+4,2016,**,April 2016,Daegu International Marathon,Daegu,South Korea,M,35.871435,128.601445
+4,2016,**,April 2016,Sao Paulo Half Marathon Corpore,Sao Paulo,Brazil,H,-23.550519,-46.633309
+4,2016,**,April 2016,Dushanbe International Half Marathon,Dushanbe,Tajikistan,H,38.559772,68.787038
+4,2016,**,April 2016,Belgrade Marathon,Belgrade,Serbia,M/H,44.786568,20.448921
+4,2016,24,April 2016,CAF Caracas Maraton,Caracas,Venezuela,M,10.480593,-66.903606
+4,2016,24,April 2016,Semi-Marathon International de Nice,Nice,France,H,43.710172,7.261953
+4,2016,**,April 2016,Tokushima Marathon,Tokushima,Japan,M,34.070270,134.554843
+4,2016,**,April 2016,Gunsan Saemangeum International Marathon & 10km & 5km,Gunsan,South Korea,M/R,35.967677,126.736629
+5,2016,1,May 2016,Borneo International Marathon,Borneo,Malaysia,M/H/R,0.961883,114.554849
+5,2016,1,May 2016,Goodlife Fitness Toronto Marathon,Toronto,Canada,M/H/R,43.653226,-79.383184
+5,2016,1,May 2016,BMO Vancouver Marathon,Vancouver,Canada,M,49.282729,-123.120737
+5,2016,1,May 2016,Salzburg Marathon,Salzburg,Austria,M/H/R,47.80949,13.055010
+5,2016,1,May 2016,Semi Marathon International de la Ville de Bejaia,Bejaia,Algeria,H,36.750889,5.056733
+5,2016,2,May 2016,Milton Keynes Marathon,Milton Keynes,England,H/M/R,52.040622,-0.759417
+5,2016,2,May 2016,Deep Riverrock Belfast City Marathon,Belfast City,Northern Ireland,M,54.597285,-5.930119
+5,2016,8,May 2016,Wizz Air Skopje Marathon,Skopje,Macedonia,M/H,41.997346,21.427995
+5,2016,8,May 2016,Volkswagen Prague Marathon,Prague,Czech Republic,M,50.075538,14.437800
+5,2016,8,May 2016,Harmony Geneve Marathon for Unicef,Geneva,Switzeland,M/H/R,46.204390,6.143157
+5,2016,8,May 2016,Trieste Green Europe Marathon,Trieste,Italy,M/H,45.649526,13.776818
+5,2016,8,May 2016,Banja Luka Half Marathon,Banja Luka,Bosnia and Herzegovina,H,44.772181,17.191000
+5,2016,15,May 2016,OMV Petrom Bucharest Half Marathon,Bucharest,Romania,H,44.426767,26.102538
+5,2016,15,May 2016,Lattelecom Riga Marathon,Riga,Latvia,M/H,56.949648,24.105186
+5,2016,15,May 2016,Maraton Movistar Lima 42k,Lima,Peru,M/H,-12.046374,-77.042793
+5,2016,15,May 2016,Cracovia Marathon,Krakow,Poland,M,50.064650,19.944979
+5,2016,15,May 2016,Gifu Seiryu Half Marathon,Gifu,Japan,H,35.423298,136.760653
+5,2016,15,May 2016,Tata Consultancy Services World 10K Bengaluru,Bangalore,India,R,12.971598,77.594562
+5,2016,21,May 2016,Three Hearts Marathon,Radenci,Slovenia,M/H/R,46.643919,16.040267
+5,2016,21,May 2016,The Great Wall Marathon,Beijing,China,M,39.904211,116.407394
+5,2016,21,May 2016,Goteborgs Varvet Half Marathon,Goteborg,Sweden,H,57.70887,11.974559
+5,2016,22,May 2016,Coca-Cola Wake Your Body Women's Running Gala,Budapest,Hungary,R,47.497912,19.040234
+5,2016,22,May 2016,Leiden Marathon,Leiden,Netherlands,M/H/R,52.160114,4.497009
+5,2016,22,May 2016,Erzurum Half Marathon,Erzurum,Turkey,H,39.905499,41.265823
+5,2016,22,May 2016,Nykredit Copenhagen Marathon,Copenhagen,Denmark,M,55.676096,12.568337
+5,2016,22,May 2016,Austrian Women's Run (Oesterreichischer Frauenlauf),Vienna,Austria,R,48.208174,16.373818
+5,2016,28,May 2016,Scotiabank Ottawa Marathon and Ottawa 10K,Ottawa,Canada,M/H/R,45.421529,-75.697193
+5,2016,29,May 2016,Comrades Marathon,Durban,South Africa,M,-29.858680,31.021840
+5,2016,29,May 2016,Scotiabank Calgary Marathon,Calgary,Canada,M/H,51.048615,-114.070845
+5,2016,29,May 2016,Edinburgh Marathon Festival,Edinburgh,Scotland,M/H/R,55.953252,-3.188266
+5,2016,29,May 2016,Rio de Janeiro City Marathon,Rio De Janeiro,Brazil,M,-22.906846,-43.172896
+5,2016,25,May 2016,BIG 25 Berlin,Berlin,Germany,R,52.520006,13.404953
+5,2016,**,May 2016,Tripoli International Half Marathon,Tripoli,Lebanon,H/R,34.438094,35.830837
+5,2016,21,May 2016,Moonlight Half Marathon,Venice,Italy,H,45.440847,12.315515
+5,2016,22,May 2016,Turin Half Marathon,Turin,Italy,H,45.070312,7.686856
+5,2016,**,May 2016,Jacob's Creek Barossa Marathon,Tanunda,Australia,M/H/R,-34.523458,138.961509
+5,2016,22,May 2016,Kigali International Peace Marathon,Ligali,Rwanda,M/H,-1.957875,30.112734
+5,2016,**,May 2016,Media Maraton Internacional Ciudad De Asuncion,Asuncion,Paraguay,H,-25.263739,-57.575925
+5,2016,23,May 2016,Paris Saint Germain En Laye La Course,Paris,France,H,48.856614,2.352221
+4,2016,23,April 2016,Dalian International Marathon,Dalian,China,M,38.914003,121.614682
+6,2016,4,June 2016,ASICS Stockholm Marathon,Stockholm,Sweden,M,59.329323,18.068580
+6,2016,5,June 2016,Laguna Phuket International Marathon,Phuket,Thailand,M,7.951933,98.338088
+6,2016,11,June 2016,Portumna Forest Marathon,Portumna,Ireland,M/U,53.092781,-8.218540
+6,2016,12,June 2016,Asics Penang Bridge International Marathon,Perai,Malaysia,H/R,5.377294,100.400145
+6,2016,12,June 2016,Kaunas Marathon,Kaunas,Lithuania,M/H/R,54.898520,23.903596
+6,2016,12,June 2016,iWelt Marathon Wuerzburg,Wuerzburg,Germany,M,49.791304,9.953354
+6,2016,12,June 2016,Phnom Penh International Half Marathon,Phnom Penh,Cambodia,H,11.544872,104.892166
+6,2016,18,June 2016,4th PKO Wroclaw Night Half Marathon,Wroclaw,Poland,M,51.107885,17.038537
+6,2016,18,June 2016,Lisbon Eco Marathon,Lisbon,Portugal,M/R,38.722252,-9.139336
+6,2016,18,June 2016,Midnight Sun Marathon and Half,Tromso,Norway,M/H,69.649204,18.955323
+6,2016,19,June 2016,Telesia City Trophy International Road Race 10K,Telesia,Italy,R,38.211761,15.736876
+6,2016,23,June 2016,Suzuki Midnight Sun Run,Reykjavik,Iceland,H/R,64.126520,-21.817439
+6,2016,25,June 2016,The Big Five Marathon,Johannesburg,South Africa,M/H,-26.204102,28.047305
+6,2016,25,June 2016,Waterford Viking Marathon,Waterford,Ireland,M/H/R,52.259319,-7.110070
+6,2016,26,June 2016,Scotiabank Vancouver Half Marathon & 5k,Vancouver,Canada,H/R,49.282729,-123.120737
+6,2016,26,June 2016,International Ergo White Nights Marathon,Saint Petersburg,Russia,M,59.934280,30.335098
+6,2016,26,June 2016,JCP Swansea Half Marathon,Swansea,Wales,H,51.62144,-3.943645
+6,2016,**,June 2016,Cork City Marathon,Cork,Ireland,M,51.896891,-8.486315
+6,2016,**,June 2016,Quito Ultimas Noticias 15K,Quito,Ecuador,R,-0.180653,-78.467838
+6,2016,**,June 2016,RAHAL 10K International De Casablanca,Casablanca,Morocco,R,33.573110,-7.589843
+6,2016,**,June 2016,Lanzhou International Marathon,Lanzhou,China,M/H/R,36.061089,103.834303
+6,2016,**,June 2016,21k Coahuila,Saltillo,Mexico,H/R,25.426724,-100.995425
+6,2016,**,June 2016,Carrera del Dia Del Padre Medio Maraton,Bosque de Tlalpan,Mexico,H,19.294600,-99.193723
+6,2016,**,June 2016,Vidovdan Road Race 10k,Brcko,Bosnia and Herzegovina,R,44.872656,18.810627
+6,2016,**,June 2016,Rovaniemi Marathon,Rovaniemi,Finland,M/H/R,66.497021,25.724999
+7,2016,2,July 2016,Paavo Nurmi Marathon,Hurley WI,USA,M,46.449669,-90.186563
+6,2016,**,June 2016,Gatorade Panama International Half Marathon,Panama City,Panama,H,9.101178,-79.402863
+6,2016,**,June 2016,Lake Saroma 100km Ultra Marathon,Lake Saroma,Japan,U,44.131217,143.802476
+6,2016,**,June 2016,Tangamanga International Marathon,Tangamanga,Mexico,M,22.140970,-100.996244
+7,2016,2,July 2016,Gold Coast Airport Marathon,Gold Coast,Australia,M/H,-28.017260,153.425698
+7,2016,3,July 2016,Econet Victoria Falls Marathon,Victoria Falls,Zimbabwe,M/H,-17.931805,25.825557
+7,2016,17,July 2016,Marathon de l'Ile Maurice,Saint Felix,Mauritius,M/H,-20.507798,57.481479
+7,2016,24,July 2016,Tijuana International Marathon,Tijuana,Mexico,M,32.514946,-117.038247
+7,2016,30,July 2016,Swissalpine,Davos,Switzerland,U,46.802745,9.835970
+7,2016,30,July 2016,Australian Outback Marathon,Terrigal,Australia,M,-33.446948,151.444586
+7,2016,31,July 2016,Media Maraton Internacional de Bogota,Bogota,Colombia,H,4.710988,-74.072092
+7,2016,31,July 2016,Westlink M7 Blacktown Running Festival,Blacktown,Australia,M,-33.769464,150.908493
+7,2016,**,July 2016,Correcaminos Half Marathon & 10km,San Jose,Costa Rica,H/R,9.928069,-84.090724
+7,2016,**,July 2016,40th National MILO Marathon & 3k & 5k & 10k & 21k and 42k,Manila,Philippines,M/H/R,14.599512,120.984219
+7,2016,**,July 2016,Maraton De Quito,Quito,Ecuador,M,-0.180653,-78.467838
+8,2016,7,August 2016,Brisbane Marathon Festival,Brisbane,Australia,M/H/R,-27.471010,153.023448
+8,2016,7,August 2016,McDonald's Townsville Marathon (Running Festival),Townsville,Australia,M/H/R,-19.257622,146.817878
+8,2016,7,August 2016,The Angkor Empire Marathon,Siem Reap,Cambodia,M/H,13.367096,103.844813
+8,2016,21,August 2016,Sunshine Coast Marathon & Community Run Festival,Alexandra Headland,Australia,M/H/R,-26.668593,153.106367
+8,2016,13,August 2016,Helsinki City Marathon,Helsinki,Finland,M,60.173324,24.941024
+8,2016,20,August 2016,Islandsbanki Reykjavik Marathon,Reykjavik,Iceland,M/H,64.126520,-21.817439
+8,2016,21,August 2016,Edmonton Marathon,Edmonton,Canada,M/H,53.544389,-113.490926
+8,2016,28,August 2016,Media Maraton de Lima,Lima,Peru,M,-12.046374,-77.042793
+8,2016,28,August 2016,SSQ Quebec City Marathon,Quebec City,Canada,M/H,46.803282,-71.242796
+8,2016,28,August 2016,Maraton de la Ciudad de Mexico,Ciudad de Mexico,Mexico,M,19.432607,-99.133207
+8,2016,**,August 2016,Maraton Internacional de Asuncion,Asuncion,Paraguay,M/H/R,-25.263739,-57.575925
+8,2016,**,August 2016,HVAR Half Marathon,Hvar,Croatia,H,43.172947,16.441113
+8,2016,**,August 2016,Adelaide Running Festival,Adelaide,Australia,M/H/R,-34.928621,138.599959
+8,2016,**,August 2016,Dhiraagu Maldives Road Race,Male,Maldives,R,4.175495,73.509347
+8,2016,**,August 2016,La Ruta de las Iglesias (10km),Quito,Ecuador,R,-0.180653,-78.467838
+8,2016,**,August 2016,Hokkaido Marathon,Sapporo,Japan,M,43.062095,141.354376
+8,2016,**,August 2016,Mandela Day Marathon,Pietermaritzburg,South Africa,M/H/R,-29.600606,30.379411
+8,2016,**,August 2016,Longford Marathon,Longfort,Ireland,M/H,53.727556,-7.793108
+8,2016,**,August 2016,BII Maybank Bali Marathon,Bali,Indonesia,M/H/R,-8.409517,115.188916
+9,2016,4,September 2016,Medio Maraton Atlas de Guadalajara,Guadalajara,Mexico,H,20.659698,-103.349609
+8,2016,28,August 2016,DaNang International Marathon,Da Nang City,Vietnam,M/H/R,16.054406,108.202166
+9,2016,3,September 2016,Petra Desert Marathon,Petra,Jordan,M/H,30.329001,35.444664
+9,2016,10,September 2016,Stockholm Half Marathon,Stockholm,Sweden,H,59.329323,18.068580
+9,2016,11,September 2016,31st Wizz Air Budapest Half Marathon,Budapest,Hungary,H,47.497912,19.040234
+9,2016,11,September 2016,Ladakh Marathon & Half & 10km & 71km Ultra,Leh,India,M/H/R/U,34.152586,77.577053
+9,2016,11,September 2016,SEB Tallinn Marathon & Half,Tallinn,Estonia,M,59.436960,24.753574
+9,2016,11,September 2016,Danske Bank Vilnius Marathon,Vilnius,Lithuania,M,54.687155,25.279651
+9,2016,12,September 2016,1/2 Maratona Del Concilio Citta Di Trento,Trento,Italy,H,46.074779,11.121748
+9,2016,17,September 2016,Tamarindo Beach Marathon,Tamarind Beach,Costa Rica,M/H/R,10.299274,-85.837105
+9,2016,17,September 2016,Danske Bank Oslo Marathon,Oslo,Norway,M/H/R,59.913868,10.752245
+9,2016,17,September 2016,Scottish Half Marathon,Meadowmill,Scotland,H,55.953599,-2.957962
+9,2016,18,September 2016,PNB MetLife Satara Hill Half Marathon,Satara,India,H/R,17.680463,74.018260
+9,2016,18,September 2016,WACHAUMarathon,Emmersdorf,Austria,M/H/R,48.240715,15.336820
+9,2016,18,September 2016,Porto Half Marathon Sport Zone,Porto,Portugal,H,41.157943,-8.629105
+9,2016,18,September 2016,Maratonina Citta Di Udine,Udine,Italy,H,46.071066,13.234579
+9,2016,18,September 2016,Dam Tot Damloop,Amsterdam,Netherlands,R,52.370215,4.895167
+9,2016,18,September 2016,Copenhagen Half Marathon,Copenhagen,Denmark,H,55.676096,12.568337
+9,2016,18,September 2016,Blackmores Sydney Running Festival incl. Sydney Marathon,Sydney,Australia,M,-33.867486,151.206990
+9,2016,25,September 2016,Medio Maraton Internacional Tlajomulco Cajititlan,Tlajomulco,Mexico,H,20.473686,-103.447931
+9,2016,**,September 2016,Knarvikmila - The Great Fjord Run,Bergen,Norway,M/H/R,60.391262,5.322054
+9,2016,**,September 2016,Luanda Half Marathon (Meia Maratona Internacional Cidade de Luanda),Luanda,Angola,H/R,-8.839987,13.289436
+9,2016,12,September 2016,Volksbank-Muenster-Marathon,Muenster,Germany,M,51.960664,7.626134
+9,2016,**,September 2016,10K San Jose Int'l - Costa Rica,San Jose,Costa Rica,R,9.928069,-84.090724
+9,2016,13,September 2016,Running Festival of the Economic Forum (Festiwal Biegowy Forum Ekonomicznego),Krynica,Poland,M/R/U,49.421515,20.959420
+9,2016,**,September 2016,Golden Ring Yaroslavl Half-Marathon,Yaroslavl,Russia,H/R,57.626074,39.884470
+9,2016,9,September 2016,Jungfrau Marathon,Interlaken,Switzerland,M/R,46.686348,7.863204
+9,2016,**,September 2016,Maraton de las Flores Medellin,Medellin,Colombia,M/H/R,6.253040,-75.564573
+9,2016,18,September 2016,PKO Wroclaw Marathon,Wroclaw,Poland,M,51.107885,17.038537
+9,2016,**,September 2016,Maraton De Quito,Quito,Ecuador,M,-0.180653,-78.467838
+9,2016,**,September 2016,Moscow Marathon,Moscow,Russia,M,55.755826,37.6173
+9,2016,**,September 2016,Siberian International Marathon,Omsk,Russia,M,54.988480,73.324236
+9,2016,**,September 2016,Carrera de La Mujer Colombia 10km,Bogota,Colombia,R,4.710988,-74.072092
+9,2016,**,September 2016,Sanlam Cape Town Marathon,Cape Town,South Africa,M/H/R,-33.924868,18.424055
+9,2016,**,September 2016,Yangmingshan Cross Country Race,Taipei,Taiwan,M/H/R,25.032969,121.565417
+9,2016,**,September 2016,Beijing Hyundai Beijing Marathon,Beijing,China,M,39.904211,116.407394
+9,2016,25,September 2016,ING Route du Vin Half Marathon,Remich,Luxembourg,H,49.545016,6.367422
+9,2016,27,September 2016,38th PZU Warsaw Marathon,Warsaw,Poland,M/R,52.229675,21.012228
+9,2016,25,September 2016,BMW Berlin Marathon,Berlin,Germany,M,52.520006,13.404953
+10,2016,2,October 2016,Baxters Loch Ness Marathon & Festival of Running,Fort Augustus,Scotland,M/R,57.144806,-4.680516
